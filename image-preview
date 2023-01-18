@@ -1,0 +1,1 @@
+ <input type="file" onchange="document.getElementById('img_id').src=window.URL.createObjectURL(this.files[0])" name="image" class="form-control mb-3">
